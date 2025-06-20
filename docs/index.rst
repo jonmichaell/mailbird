@@ -8,7 +8,7 @@ How to Use Mailbird for Easy and Efficient Email Management?
 
 Managing email should be simple, not stressful. That's why Mailbird has earned a strong reputation as a modern, feature-rich desktop email client for Windows. It helps users streamline their communication while offering solid customer support and easy account access. In this guide, we'll explore how to navigate Mailbird's customer service, login and sign-in processes, activation, and how tools like IDrive complement email management with reliable data backup.
 
-.. image:: get-start.png
+.. image:: start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
