@@ -8,8 +8,6 @@ How to Use Mailbird for Easy and Efficient Email Management
 
 Managing email should be simple, not stressful. That's why Mailbird has earned a strong reputation as a modern, feature-rich desktop email client for Windows. It helps users streamline their communication while offering solid customer support and easy account access. In this guide, we'll explore how to navigate Mailbird's customer service, login and sign-in processes, activation, and how tools like IDrive complement email management with reliable data backup.
 
-What is Mailbird?
-
 .. image:: get-start.png
    :alt: My Project Logo
    :width: 400px
@@ -17,6 +15,9 @@ What is Mailbird?
    :target: https://getchatsupport.live/
 
 
+
+
+What is Mailbird?
 
 Mailbird is a Windows-based email client that brings together multiple email accounts into a single, user-friendly dashboard. It supports Gmail, Outlook, Yahoo, and any IMAP/POP3 accounts. Along with standard features, Mailbird integrates with third-party productivity apps like:
 
