@@ -1,4 +1,4 @@
-How to Use Mailbird for Easy and Efficient Email Management
+How to Use Mailbird for Easy and Efficient Email Management?
 -------
 
 .. toctree::
